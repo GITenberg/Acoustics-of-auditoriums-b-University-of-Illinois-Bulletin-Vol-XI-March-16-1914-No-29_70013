@@ -1,0 +1,32 @@
+_repo: Acoustics-of-auditoriums-b-University-of-Illinois-Bulletin-Vol-XI-March-16-1914-No-29_70013
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, Floyd Rowe
+    aliases:
+    - Watson, F. R. (Floyd Rowe)
+    - Watson, Floyd R. (Floyd Rowe)
+    birthdate: 1872
+    deathdate: 1974
+    gutenberg_agent_id: '55514'
+    url: http://www.gutenberg.org/2009/agents/55514
+    wikipedia: https://en.wikipedia.org/wiki/Floyd_R._Watson
+description: ''
+gutenberg_issued: '2023-02-10'
+identifiers:
+  gutenberg: '70013'
+language: en
+pgterms:marc905: 20221224173854watson
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Charlie Howard and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bUniversity of Illinois, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Acoustics of auditoriums : $b University of Illinois Bulletin, Vol. XI, March
+  16, 1914, No. 29'
+url: http://www.gutenberg.org/ebooks/70013
