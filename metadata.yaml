@@ -1,5 +1,8 @@
 _repo: Acoustics-of-auditoriums-b-University-of-Illinois-Bulletin-Vol-XI-March-16-1914-No-29_70013
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70013-h/images/cover.jpg
 creator:
   author:
     agent_name: Watson, Floyd Rowe
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55514
     wikipedia: https://en.wikipedia.org/wiki/Floyd_R._Watson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70013#Acoustics-of-auditoriums-b-University-of-Illinois-Bulletin-Vol-XI-March-16-1914-No-29
 gutenberg_issued: '2023-02-10'
 identifiers:
   gutenberg: '70013'
